@@ -37,16 +37,29 @@ Gabrovo|oranges|12
 ### Single \` and Triple \`\`\` quotes.
 
 Single quotes are used for marking a particular word
+
 #### Example :
 The command `ls` in Linux to list directory
 
 Triple quotes mark a snippet of code.
+You can add special interpreter for the code, so it will use the highlight for <write here something nice>
+  
 #### Example :
-```
+
+```bash
 cd 
 ls
 mkdir test
 ```
+
+```python
+print('hello')
+```
+
+```ruby
+puts "hello"
+```
+
 ### Sections
 [Creating Tables]( https://github.com/martinhristov90/markdown/blob/master/README.md#creating-tables-)
 

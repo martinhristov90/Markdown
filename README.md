@@ -23,3 +23,13 @@ Gabrovo|oranges|12
 * Drink coffee
 * Wake Up
 * Go to work
+
+### Checkboxes :
+
+#### What working day is today ?
+
+- [ ] Monday
+- [ ] Tuesday
+- [X] Wednesday
+- [ ] Thursday
+- [ ] Friday

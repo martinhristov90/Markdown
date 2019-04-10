@@ -46,3 +46,12 @@ Triple quotes mark a snippet of code.
 cd 
 ls
 mkdir test
+```
+### Sections
+[Creating Tables]( https://github.com/martinhristov90/markdown/blob/master/README.md#creating-tables-)
+
+[Lists](https://github.com/martinhristov90/markdown/blob/master/README.md#lists-)
+
+[Checkboxes]( https://github.com/martinhristov90/markdown/blob/master/README.md#checkboxes-)
+
+[Single and Triple quotes](https://github.com/martinhristov90/markdown/blob/master/README.md#single--and-triple--quotes)

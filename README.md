@@ -33,3 +33,16 @@ Gabrovo|oranges|12
 - [X] Wednesday
 - [ ] Thursday
 - [ ] Friday
+
+### Single \` and Triple \`\`\` quotes.
+
+Single quotes are used for marking a particular word
+#### Example :
+The command `ls` in Linux to list directory
+
+Triple quotes mark a snippet of code.
+#### Example :
+```
+cd 
+ls
+mkdir test

@@ -1,6 +1,15 @@
 # Markdown
 This repo is created with learning purposes for markdown.
 
+### Sections
+[Creating Tables](https://github.com/martinhristov90/markdown/blob/master/README.md#creating-tables-)
+
+[Lists](https://github.com/martinhristov90/markdown/blob/master/README.md#lists-)
+
+[Checkboxes](https://github.com/martinhristov90/markdown/blob/master/README.md#checkboxes-)
+
+[Single and Triple quotes](https://github.com/martinhristov90/markdown/blob/master/README.md#single--and-triple--quotes)
+
 ### Creating tables :
 
 Warehouse | Fruits | Quantity
@@ -59,12 +68,3 @@ print('hello')
 ```ruby
 puts "hello"
 ```
-
-### Sections
-[Creating Tables]( https://github.com/martinhristov90/markdown/blob/master/README.md#creating-tables-)
-
-[Lists](https://github.com/martinhristov90/markdown/blob/master/README.md#lists-)
-
-[Checkboxes]( https://github.com/martinhristov90/markdown/blob/master/README.md#checkboxes-)
-
-[Single and Triple quotes](https://github.com/martinhristov90/markdown/blob/master/README.md#single--and-triple--quotes)
